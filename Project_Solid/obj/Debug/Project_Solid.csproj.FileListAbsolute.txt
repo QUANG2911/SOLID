@@ -1,0 +1,7 @@
+D:\ThucTap\SSD\Project_Solid\Project_Solid\bin\Debug\Project_Solid.exe.config
+D:\ThucTap\SSD\Project_Solid\Project_Solid\bin\Debug\Project_Solid.exe
+D:\ThucTap\SSD\Project_Solid\Project_Solid\bin\Debug\Project_Solid.pdb
+D:\ThucTap\SSD\Project_Solid\Project_Solid\obj\Debug\Project_Solid.csproj.AssemblyReference.cache
+D:\ThucTap\SSD\Project_Solid\Project_Solid\obj\Debug\Project_Solid.csproj.CoreCompileInputs.cache
+D:\ThucTap\SSD\Project_Solid\Project_Solid\obj\Debug\Project_Solid.exe
+D:\ThucTap\SSD\Project_Solid\Project_Solid\obj\Debug\Project_Solid.pdb
